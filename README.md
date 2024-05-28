@@ -5,3 +5,4 @@ oi meu nome é Mellissa
 - Estou desenvolvendo linguagem JAVASCRIPT
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos
 
+![](https://media1.tenor.com/m/GgnO9RWEavwAAAAC/sarcasm-sarcastic.gif)
